@@ -276,10 +276,15 @@ def main():
     for category, url in ICS_URLS.items():
         all_races.extend(parse_ics_calendar(category, url))
         
+    import os
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    races_path = os.path.join(script_dir, "races.json")
+    standings_path = os.path.join(script_dir, "standings.json")
+        
     if all_races:
-        with open("races.json", "w", encoding="utf-8") as f:
+        with open(races_path, "w", encoding="utf-8") as f:
             json.dump(all_races, f, ensure_ascii=False, indent=2)
-        print(" Calendario races.json actualizado con éxito.")
+        print(f" Calendario {races_path} actualizado con éxito.")
         
     # 2. Sincronizar todas las clasificaciones reales
     all_standings = {}
@@ -289,9 +294,9 @@ def main():
             all_standings[category] = standings
             
     if all_standings:
-        with open("standings.json", "w", encoding="utf-8") as f:
+        with open(standings_path, "w", encoding="utf-8") as f:
             json.dump(all_standings, f, ensure_ascii=False, indent=2)
-        print(" Clasificaciones standings.json actualizadas con éxito.")
+        print(f" Clasificaciones {standings_path} actualizadas con éxito.")
 
 if __name__ == "__main__":
     main()
