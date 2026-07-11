@@ -1,0 +1,37 @@
+name: Sincronizar Calendario y Posiciones de Motorsport
+
+on:
+  schedule:
+    # Se ejecuta cada 6 horas (a las 00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permite ejecutar de forma manual desde la interfaz de GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar Repositorio
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Instalar Dependencias
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+
+    - name: Ejecutar Script de Sincronización
+      run: |
+        python update_data.py
+
+    - name: Subir Cambios a GitHub
+      run: |
+        git config --global user.name "GitHub Action Bot"
+        git config --global user.email "actions@github.com"
+        git add races.json standings.json
+        git commit -m "Auto-update schedules and standings [skip ci]" || exit 0
+        git push
