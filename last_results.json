@@ -1,0 +1,142 @@
+{
+  "WRC": {
+    "id": "wrc-last",
+    "category": "WRC",
+    "name": "Rally de Suecia",
+    "circuit": "Umeå",
+    "country": "Suecia",
+    "dateTimestamp": 1754006400000,
+    "round": 2,
+    "season": 2026,
+    "isCompleted": true,
+    "podium": [
+      {
+        "position": 1,
+        "driverName": "Thierry Neuville",
+        "teamName": "Hyundai"
+      },
+      {
+        "position": 2,
+        "driverName": "Ott Tänak",
+        "teamName": "Hyundai"
+      },
+      {
+        "position": 3,
+        "driverName": "Sébastien Ogier",
+        "teamName": "Toyota GR"
+      }
+    ]
+  },
+  "WEC": {
+    "id": "wec-last",
+    "category": "WEC",
+    "name": "6 Horas de Imola",
+    "circuit": "Imola",
+    "country": "Italia",
+    "dateTimestamp": 1754006400000,
+    "round": 1,
+    "season": 2026,
+    "isCompleted": true,
+    "podium": [
+      {
+        "position": 1,
+        "driverName": "Kamui Kobayashi",
+        "teamName": "Toyota GR"
+      },
+      {
+        "position": 2,
+        "driverName": "Antonio Fuoco",
+        "teamName": "Ferrari AF Corse"
+      },
+      {
+        "position": 3,
+        "driverName": "Brendon Hartley",
+        "teamName": "Toyota GR"
+      }
+    ]
+  },
+  "MOTOGP": {
+    "id": "mgp-last",
+    "category": "MOTOGP",
+    "name": "GP de las Américas",
+    "circuit": "COTA",
+    "country": "Estados Unidos",
+    "dateTimestamp": 1754006400000,
+    "round": 3,
+    "season": 2026,
+    "isCompleted": true,
+    "podium": [
+      {
+        "position": 1,
+        "driverName": "Francesco Bagnaia",
+        "teamName": "Ducati Lenovo"
+      },
+      {
+        "position": 2,
+        "driverName": "Marc Márquez",
+        "teamName": "Ducati Gresini"
+      },
+      {
+        "position": 3,
+        "driverName": "Jorge Martín",
+        "teamName": "Aprilia Racing"
+      }
+    ]
+  },
+  "NASCAR": {
+    "id": "nas-last",
+    "category": "NASCAR",
+    "name": "Daytona 500",
+    "circuit": "Daytona International Speedway",
+    "country": "Estados Unidos",
+    "dateTimestamp": 1754006400000,
+    "round": 1,
+    "season": 2026,
+    "isCompleted": true,
+    "podium": [
+      {
+        "position": 1,
+        "driverName": "Kyle Larson",
+        "teamName": "Hendrick #5"
+      },
+      {
+        "position": 2,
+        "driverName": "William Byron",
+        "teamName": "Hendrick #24"
+      },
+      {
+        "position": 3,
+        "driverName": "Christopher Bell",
+        "teamName": "Gibbs #20"
+      }
+    ]
+  },
+  "INDYCAR": {
+    "id": "ind-last",
+    "category": "INDYCAR",
+    "name": "GP de Long Beach",
+    "circuit": "Long Beach",
+    "country": "Estados Unidos",
+    "dateTimestamp": 1754006400000,
+    "round": 2,
+    "season": 2026,
+    "isCompleted": true,
+    "podium": [
+      {
+        "position": 1,
+        "driverName": "Álex Palou",
+        "teamName": "Ganassi #10"
+      },
+      {
+        "position": 2,
+        "driverName": "Colton Herta",
+        "teamName": "Andretti #26"
+      },
+      {
+        "position": 3,
+        "driverName": "Pato O'Ward",
+        "teamName": "McLaren #5"
+      }
+    ]
+  }
+}

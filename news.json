@@ -1,0 +1,29 @@
+[
+  {
+    "id": "news-1",
+    "category": "F1",
+    "title": "Hamilton lidera la tabla de cara a Spa",
+    "summary": "El piloto de Ferrari espera mantener su racha ganadora en la mítica pista belga tras las vacaciones.",
+    "imageUrl": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=400&q=80",
+    "date": "11 Jul 2026",
+    "url": "https://pitsport.xyz/live-now"
+  },
+  {
+    "id": "news-2",
+    "category": "MOTOGP",
+    "title": "Bagnaia se prepara para Sachsenring",
+    "summary": "El campeón defensor busca redimirse tras la caída de la carrera anterior en Assen.",
+    "imageUrl": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=400&q=80",
+    "date": "10 Jul 2026",
+    "url": "https://pitsport.xyz/live-now"
+  },
+  {
+    "id": "news-3",
+    "category": "WRC",
+    "title": "Neuville amplía su ventaja en el Rally de Polonia",
+    "summary": "El belga demostró un dominio absoluto en las etapas de tierra de alta velocidad.",
+    "imageUrl": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=400&q=80",
+    "date": "09 Jul 2026",
+    "url": "https://pitsport.xyz/live-now"
+  }
+]
