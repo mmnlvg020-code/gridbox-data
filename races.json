@@ -8,7 +8,9 @@
     "countryCode": "",
     "dateTimestamp": 1769083200000,
     "round": 1,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-2",
@@ -19,7 +21,9 @@
     "countryCode": "",
     "dateTimestamp": 1770897600000,
     "round": 2,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-3",
@@ -30,7 +34,9 @@
     "countryCode": "",
     "dateTimestamp": 1773316800000,
     "round": 3,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-4",
@@ -41,7 +47,9 @@
     "countryCode": "",
     "dateTimestamp": 1775736000000,
     "round": 4,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-5",
@@ -52,7 +60,9 @@
     "countryCode": "",
     "dateTimestamp": 1776945600000,
     "round": 5,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-6",
@@ -63,7 +73,9 @@
     "countryCode": "",
     "dateTimestamp": 1778155200000,
     "round": 6,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-7",
@@ -74,7 +86,9 @@
     "countryCode": "",
     "dateTimestamp": 1779969600000,
     "round": 7,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-8",
@@ -85,7 +99,9 @@
     "countryCode": "",
     "dateTimestamp": 1782388800000,
     "round": 8,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-9",
@@ -96,7 +112,9 @@
     "countryCode": "",
     "dateTimestamp": 1784203200000,
     "round": 9,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-10",
@@ -107,7 +125,9 @@
     "countryCode": "",
     "dateTimestamp": 1785412800000,
     "round": 10,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-11",
@@ -118,7 +138,9 @@
     "countryCode": "",
     "dateTimestamp": 1787832000000,
     "round": 11,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-12",
@@ -129,7 +151,9 @@
     "countryCode": "",
     "dateTimestamp": 1789041600000,
     "round": 12,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-13",
@@ -140,7 +164,9 @@
     "countryCode": "",
     "dateTimestamp": 1790856000000,
     "round": 13,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wrc-2026-14",
@@ -151,7 +177,9 @@
     "countryCode": "",
     "dateTimestamp": 1794398400000,
     "round": 14,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-1",
@@ -162,7 +190,9 @@
     "countryCode": "",
     "dateTimestamp": 1776600000000,
     "round": 1,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-2",
@@ -173,7 +203,9 @@
     "countryCode": "",
     "dateTimestamp": 1778328000000,
     "round": 2,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-3",
@@ -184,7 +216,9 @@
     "countryCode": "",
     "dateTimestamp": 1781352000000,
     "round": 3,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-4",
@@ -195,7 +229,9 @@
     "countryCode": "",
     "dateTimestamp": 1783857600000,
     "round": 4,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-5",
@@ -206,7 +242,9 @@
     "countryCode": "",
     "dateTimestamp": 1788696000000,
     "round": 5,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-6",
@@ -217,7 +255,9 @@
     "countryCode": "",
     "dateTimestamp": 1790510400000,
     "round": 6,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-7",
@@ -228,7 +268,9 @@
     "countryCode": "",
     "dateTimestamp": 1792843200000,
     "round": 7,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "wec-2026-8",
@@ -239,7 +281,9 @@
     "countryCode": "",
     "dateTimestamp": 1794052800000,
     "round": 8,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-1",
@@ -250,7 +294,9 @@
     "countryCode": "",
     "dateTimestamp": 1772366400000,
     "round": 1,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-2",
@@ -261,7 +307,9 @@
     "countryCode": "",
     "dateTimestamp": 1774180800000,
     "round": 2,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-3",
@@ -272,7 +320,9 @@
     "countryCode": "",
     "dateTimestamp": 1774785600000,
     "round": 3,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-4",
@@ -283,7 +333,9 @@
     "countryCode": "",
     "dateTimestamp": 1777204800000,
     "round": 4,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-5",
@@ -294,7 +346,9 @@
     "countryCode": "",
     "dateTimestamp": 1778414400000,
     "round": 5,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-6",
@@ -305,7 +359,9 @@
     "countryCode": "",
     "dateTimestamp": 1779019200000,
     "round": 6,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-7",
@@ -316,7 +372,9 @@
     "countryCode": "",
     "dateTimestamp": 1780228800000,
     "round": 7,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-8",
@@ -327,7 +385,9 @@
     "countryCode": "",
     "dateTimestamp": 1780833600000,
     "round": 8,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-9",
@@ -338,7 +398,9 @@
     "countryCode": "",
     "dateTimestamp": 1782043200000,
     "round": 9,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-10",
@@ -349,7 +411,9 @@
     "countryCode": "",
     "dateTimestamp": 1782648000000,
     "round": 10,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-11",
@@ -360,7 +424,9 @@
     "countryCode": "",
     "dateTimestamp": 1783857600000,
     "round": 11,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-12",
@@ -371,7 +437,9 @@
     "countryCode": "",
     "dateTimestamp": 1786276800000,
     "round": 12,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-13",
@@ -382,7 +450,9 @@
     "countryCode": "",
     "dateTimestamp": 1788091200000,
     "round": 13,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-14",
@@ -393,7 +463,9 @@
     "countryCode": "",
     "dateTimestamp": 1789300800000,
     "round": 14,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-15",
@@ -404,7 +476,9 @@
     "countryCode": "",
     "dateTimestamp": 1789905600000,
     "round": 15,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-16",
@@ -415,7 +489,9 @@
     "countryCode": "",
     "dateTimestamp": 1791115200000,
     "round": 16,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-17",
@@ -426,7 +502,9 @@
     "countryCode": "",
     "dateTimestamp": 1791720000000,
     "round": 17,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-18",
@@ -437,7 +515,9 @@
     "countryCode": "",
     "dateTimestamp": 1792929600000,
     "round": 18,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-19",
@@ -448,7 +528,9 @@
     "countryCode": "",
     "dateTimestamp": 1793534400000,
     "round": 19,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-20",
@@ -459,7 +541,9 @@
     "countryCode": "",
     "dateTimestamp": 1794139200000,
     "round": 20,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-21",
@@ -470,7 +554,9 @@
     "countryCode": "",
     "dateTimestamp": 1795348800000,
     "round": 21,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "motogp-2026-22",
@@ -481,7 +567,9 @@
     "countryCode": "",
     "dateTimestamp": 1795953600000,
     "round": 22,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-1",
@@ -492,7 +580,9 @@
     "countryCode": "",
     "dateTimestamp": 1769947200000,
     "round": 1,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-2",
@@ -503,7 +593,9 @@
     "countryCode": "",
     "dateTimestamp": 1770897600000,
     "round": 2,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-3",
@@ -514,7 +606,9 @@
     "countryCode": "",
     "dateTimestamp": 1771156800000,
     "round": 3,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-4",
@@ -525,7 +619,9 @@
     "countryCode": "",
     "dateTimestamp": 1771761600000,
     "round": 4,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-5",
@@ -536,7 +632,9 @@
     "countryCode": "",
     "dateTimestamp": 1772366400000,
     "round": 5,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-6",
@@ -547,7 +645,9 @@
     "countryCode": "",
     "dateTimestamp": 1772971200000,
     "round": 6,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-7",
@@ -558,7 +658,9 @@
     "countryCode": "",
     "dateTimestamp": 1773576000000,
     "round": 7,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-8",
@@ -569,7 +671,9 @@
     "countryCode": "",
     "dateTimestamp": 1774180800000,
     "round": 8,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-9",
@@ -580,7 +684,9 @@
     "countryCode": "",
     "dateTimestamp": 1774785600000,
     "round": 9,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-10",
@@ -591,7 +697,9 @@
     "countryCode": "",
     "dateTimestamp": 1775995200000,
     "round": 10,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-11",
@@ -602,7 +710,9 @@
     "countryCode": "",
     "dateTimestamp": 1776600000000,
     "round": 11,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-12",
@@ -613,7 +723,9 @@
     "countryCode": "",
     "dateTimestamp": 1777204800000,
     "round": 12,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-13",
@@ -624,7 +736,9 @@
     "countryCode": "",
     "dateTimestamp": 1777809600000,
     "round": 13,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-14",
@@ -635,7 +749,9 @@
     "countryCode": "",
     "dateTimestamp": 1778414400000,
     "round": 14,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-15",
@@ -646,7 +762,9 @@
     "countryCode": "",
     "dateTimestamp": 1779019200000,
     "round": 15,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-16",
@@ -657,7 +775,9 @@
     "countryCode": "",
     "dateTimestamp": 1779624000000,
     "round": 16,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-17",
@@ -668,7 +788,9 @@
     "countryCode": "",
     "dateTimestamp": 1780228800000,
     "round": 17,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-18",
@@ -679,7 +801,9 @@
     "countryCode": "",
     "dateTimestamp": 1780833600000,
     "round": 18,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-19",
@@ -690,7 +814,9 @@
     "countryCode": "",
     "dateTimestamp": 1781438400000,
     "round": 19,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-20",
@@ -701,7 +827,9 @@
     "countryCode": "",
     "dateTimestamp": 1782043200000,
     "round": 20,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-21",
@@ -712,7 +840,9 @@
     "countryCode": "",
     "dateTimestamp": 1782648000000,
     "round": 21,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-22",
@@ -723,7 +853,9 @@
     "countryCode": "",
     "dateTimestamp": 1783252800000,
     "round": 22,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-23",
@@ -734,7 +866,9 @@
     "countryCode": "",
     "dateTimestamp": 1783857600000,
     "round": 23,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-24",
@@ -745,7 +879,9 @@
     "countryCode": "",
     "dateTimestamp": 1784462400000,
     "round": 24,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-25",
@@ -756,7 +892,9 @@
     "countryCode": "",
     "dateTimestamp": 1785067200000,
     "round": 25,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-26",
@@ -767,7 +905,9 @@
     "countryCode": "",
     "dateTimestamp": 1786276800000,
     "round": 26,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-27",
@@ -778,7 +918,9 @@
     "countryCode": "",
     "dateTimestamp": 1786795200000,
     "round": 27,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-28",
@@ -789,7 +931,9 @@
     "countryCode": "",
     "dateTimestamp": 1787486400000,
     "round": 28,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-29",
@@ -800,7 +944,9 @@
     "countryCode": "",
     "dateTimestamp": 1788004800000,
     "round": 29,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-30",
@@ -811,7 +957,9 @@
     "countryCode": "",
     "dateTimestamp": 1788696000000,
     "round": 30,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-31",
@@ -822,7 +970,9 @@
     "countryCode": "",
     "dateTimestamp": 1789300800000,
     "round": 31,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-32",
@@ -833,7 +983,9 @@
     "countryCode": "",
     "dateTimestamp": 1789819200000,
     "round": 32,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-33",
@@ -844,7 +996,9 @@
     "countryCode": "",
     "dateTimestamp": 1790510400000,
     "round": 33,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-34",
@@ -855,7 +1009,9 @@
     "countryCode": "",
     "dateTimestamp": 1791115200000,
     "round": 34,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-35",
@@ -866,7 +1022,9 @@
     "countryCode": "",
     "dateTimestamp": 1791720000000,
     "round": 35,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-36",
@@ -877,7 +1035,9 @@
     "countryCode": "",
     "dateTimestamp": 1792324800000,
     "round": 36,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-37",
@@ -888,7 +1048,9 @@
     "countryCode": "",
     "dateTimestamp": 1792929600000,
     "round": 37,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-38",
@@ -899,7 +1061,9 @@
     "countryCode": "",
     "dateTimestamp": 1793534400000,
     "round": 38,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "nascar-2026-39",
@@ -910,7 +1074,9 @@
     "countryCode": "",
     "dateTimestamp": 1794139200000,
     "round": 39,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-1",
@@ -921,7 +1087,9 @@
     "countryCode": "",
     "dateTimestamp": 1772366400000,
     "round": 1,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-2",
@@ -932,7 +1100,9 @@
     "countryCode": "",
     "dateTimestamp": 1772884800000,
     "round": 2,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-3",
@@ -943,7 +1113,9 @@
     "countryCode": "",
     "dateTimestamp": 1773576000000,
     "round": 3,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-4",
@@ -954,7 +1126,9 @@
     "countryCode": "",
     "dateTimestamp": 1774785600000,
     "round": 4,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-5",
@@ -965,7 +1139,9 @@
     "countryCode": "",
     "dateTimestamp": 1776600000000,
     "round": 5,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-6",
@@ -976,7 +1152,9 @@
     "countryCode": "",
     "dateTimestamp": 1778328000000,
     "round": 6,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-7",
@@ -987,7 +1165,9 @@
     "countryCode": "",
     "dateTimestamp": 1779624000000,
     "round": 7,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-8",
@@ -998,7 +1178,9 @@
     "countryCode": "",
     "dateTimestamp": 1780228800000,
     "round": 8,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-9",
@@ -1009,7 +1191,9 @@
     "countryCode": "",
     "dateTimestamp": 1780833600000,
     "round": 9,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-10",
@@ -1020,7 +1204,9 @@
     "countryCode": "",
     "dateTimestamp": 1782043200000,
     "round": 10,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-11",
@@ -1031,7 +1217,9 @@
     "countryCode": "",
     "dateTimestamp": 1783252800000,
     "round": 11,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-12",
@@ -1042,7 +1230,9 @@
     "countryCode": "",
     "dateTimestamp": 1784462400000,
     "round": 12,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-13",
@@ -1053,7 +1243,9 @@
     "countryCode": "",
     "dateTimestamp": 1786276800000,
     "round": 13,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-14",
@@ -1064,7 +1256,9 @@
     "countryCode": "",
     "dateTimestamp": 1786881600000,
     "round": 14,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-15",
@@ -1075,7 +1269,9 @@
     "countryCode": "",
     "dateTimestamp": 1787486400000,
     "round": 15,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-16",
@@ -1086,7 +1282,9 @@
     "countryCode": "",
     "dateTimestamp": 1788004800000,
     "round": 16,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-17",
@@ -1097,7 +1295,9 @@
     "countryCode": "",
     "dateTimestamp": 1788091200000,
     "round": 17,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   },
   {
     "id": "indycar-2026-18",
@@ -1108,6 +1308,8 @@
     "countryCode": "",
     "dateTimestamp": 1788696000000,
     "round": 18,
-    "season": 2026
+    "season": 2026,
+    "isCompleted": false,
+    "circuitId": ""
   }
 ]

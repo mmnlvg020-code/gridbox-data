@@ -159,7 +159,9 @@ def parse_ics_calendar(category, url):
             "countryCode": "",
             "dateTimestamp": timestamp,
             "round": round_num,
-            "season": 2026
+            "season": 2026,
+            "isCompleted": False,
+            "circuitId": ""
         }
         races.append(race)
         round_num += 1
