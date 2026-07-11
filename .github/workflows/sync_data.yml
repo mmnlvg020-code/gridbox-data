@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-          
+
     steps:
     - name: Descargar Repositorio
       uses: actions/checkout@v3
@@ -24,7 +24,6 @@ jobs:
     - name: Instalar Dependencias
       run: |
         python -m pip install --upgrade pip
-        pip install requests
 
     - name: Ejecutar Script de Sincronización
       run: |
@@ -37,3 +36,4 @@ jobs:
         git add races.json standings.json
         git commit -m "Auto-update schedules and standings [skip ci]" || exit 0
         git push
+
