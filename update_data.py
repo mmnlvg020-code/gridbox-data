@@ -16,6 +16,23 @@ ICS_URLS = {
 }
 
 # -------------------------------------------------------------
+# 1.5. OVERRIDES MANUALES DE HORARIOS (UTC)
+# Dado que los calendarios provistos a menudo son de "Todo el día",
+# puedes especificar la hora exacta de la carrera en UTC aquí.
+# Clave: Parte del nombre de la carrera en minúsculas (ej: "estonia")
+# Valor: "HH:MM" (hora en UTC)
+# -------------------------------------------------------------
+MANUAL_TIME_OVERRIDES = {
+    "estonia": "10:00",         # 13:00 GMT+3 -> 10:00 UTC
+    "são paulo": "14:30",       # 11:30 GMT-3 -> 14:30 UTC
+    "sao paulo": "14:30",
+    "alemania": "12:00",        # 14:00 GMT+2 -> 12:00 UTC
+    "deutschland": "12:00",
+    "quaker state 400": "23:00",# 19:00 ET -> 23:00 UTC
+    "atlanta": "23:00"
+}
+
+# -------------------------------------------------------------
 # 2. PÁGINAS DE WIKIPEDIA PARA ESTADÍSTICAS Y POSICIONES
 # -------------------------------------------------------------
 WIKI_STANDINGS = {
@@ -149,6 +166,16 @@ def parse_ics_calendar(category, url):
         location = location.replace("\\,", ",").replace("\\", "").strip()
         
         race_name = clean_gp_name(summary, category)
+        
+        # Aplicar override manual de horario si corresponde
+        for override_key, override_time in MANUAL_TIME_OVERRIDES.items():
+            if override_key in race_name.lower():
+                hh, mm = map(int, override_time.split(":"))
+                dt_override = datetime.datetime.fromtimestamp(timestamp / 1000, tz=datetime.timezone.utc)
+                dt_override = dt_override.replace(hour=hh, minute=mm, second=0)
+                timestamp = int(dt_override.timestamp() * 1000)
+                # print(f"   [!] Ajustando hora de '{race_name}' a {override_time} UTC")
+                break
         
         race = {
             "id": f"{category.lower()}-2026-{round_num}",
