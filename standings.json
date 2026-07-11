@@ -1,162 +1,54 @@
 {
-  "WRC": [
-    {
-      "position": 1,
-      "name": "Sébastien Ogier",
-      "points": 186.0,
-      "wins": 5,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "Toyota GR",
-      "nationality": "Francesa"
-    },
-    {
-      "position": 2,
-      "name": "Thierry Neuville",
-      "points": 168.0,
-      "wins": 3,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "Hyundai",
-      "nationality": "Belga"
-    },
-    {
-      "position": 3,
-      "name": "Ott Tänak",
-      "points": 155.0,
-      "wins": 2,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "Hyundai",
-      "nationality": "Estonia"
-    }
-  ],
-  "WEC": [
-    {
-      "position": 1,
-      "name": "Kamui Kobayashi",
-      "points": 142.0,
-      "wins": 3,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "Toyota GR",
-      "nationality": "Japonesa"
-    },
-    {
-      "position": 2,
-      "name": "Antonio Fuoco",
-      "points": 134.0,
-      "wins": 2,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "Ferrari AF Corse",
-      "nationality": "Italiana"
-    },
-    {
-      "position": 3,
-      "name": "Brendon Hartley",
-      "points": 121.0,
-      "wins": 2,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "Toyota GR",
-      "nationality": "Neozelandesa"
-    }
-  ],
-  "MOTOGP": [
-    {
-      "position": 1,
-      "name": "Francesco Bagnaia",
-      "points": 312.0,
-      "wins": 8,
-      "category": "MOTOGP",
-      "isDriver": true,
-      "teamName": "Ducati Lenovo",
-      "nationality": "Italiana"
-    },
-    {
-      "position": 2,
-      "name": "Marc Márquez",
-      "points": 289.0,
-      "wins": 5,
-      "category": "MOTOGP",
-      "isDriver": true,
-      "teamName": "Ducati Gresini",
-      "nationality": "Española"
-    },
-    {
-      "position": 3,
-      "name": "Jorge Martín",
-      "points": 276.0,
-      "wins": 4,
-      "category": "MOTOGP",
-      "isDriver": true,
-      "teamName": "Aprilia Racing",
-      "nationality": "Española"
-    }
-  ],
   "NASCAR": [
     {
       "position": 1,
-      "name": "Kyle Larson",
-      "points": 845.0,
-      "wins": 4,
+      "name": "Deportivo Maldonado",
+      "points": 39.0,
+      "wins": 12,
       "category": "NASCAR",
       "isDriver": true,
-      "teamName": "Hendrick #5",
-      "nationality": "Estadounidense"
+      "teamName": "Deportivo Maldonado",
+      "nationality": ""
     },
     {
       "position": 2,
-      "name": "William Byron",
-      "points": 810.0,
-      "wins": 3,
+      "name": "Racing Montevideo",
+      "points": 37.0,
+      "wins": 10,
       "category": "NASCAR",
       "isDriver": true,
-      "teamName": "Hendrick #24",
-      "nationality": "Estadounidense"
+      "teamName": "Racing Montevideo",
+      "nationality": ""
     },
     {
       "position": 3,
-      "name": "Christopher Bell",
-      "points": 789.0,
-      "wins": 3,
+      "name": "Peñarol",
+      "points": 36.0,
+      "wins": 11,
       "category": "NASCAR",
       "isDriver": true,
-      "teamName": "Gibbs #20",
-      "nationality": "Estadounidense"
-    }
-  ],
-  "INDYCAR": [
-    {
-      "position": 1,
-      "name": "Álex Palou",
-      "points": 498.0,
-      "wins": 5,
-      "category": "INDYCAR",
-      "isDriver": true,
-      "teamName": "Ganassi #10",
-      "nationality": "Española"
+      "teamName": "Peñarol",
+      "nationality": ""
     },
     {
-      "position": 2,
-      "name": "Colton Herta",
-      "points": 462.0,
-      "wins": 3,
-      "category": "INDYCAR",
+      "position": 4,
+      "name": "Albion",
+      "points": 32.0,
+      "wins": 9,
+      "category": "NASCAR",
       "isDriver": true,
-      "teamName": "Andretti #26",
-      "nationality": "Estadounidense"
+      "teamName": "Albion",
+      "nationality": ""
     },
     {
-      "position": 3,
-      "name": "Pato O'Ward",
-      "points": 445.0,
-      "wins": 2,
-      "category": "INDYCAR",
+      "position": 5,
+      "name": "Nacional Montevideo",
+      "points": 31.0,
+      "wins": 10,
+      "category": "NASCAR",
       "isDriver": true,
-      "teamName": "McLaren #5",
-      "nationality": "Mexicana"
+      "teamName": "Nacional Montevideo",
+      "nationality": ""
     }
   ]
 }
