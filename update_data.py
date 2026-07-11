@@ -3,7 +3,6 @@ import re
 import html
 import json
 import datetime
-
 # -------------------------------------------------------------
 # 1. DIRECCIONES DE CALENDARIOS EN FORMATO ICS (iCal)
 # -------------------------------------------------------------
@@ -14,7 +13,6 @@ ICS_URLS = {
     "NASCAR": "https://calendar.google.com/calendar/ical/db8c47ne2bt9qbld2mhdabm0u8%40group.calendar.google.com/public/basic.ics",
     "INDYCAR": "https://calendar.google.com/calendar/ical/hlskhf7l8ce7btind39bb9kf1o%40group.calendar.google.com/public/basic.ics"
 }
-
 # -------------------------------------------------------------
 # 2. PÁGINAS DE WIKIPEDIA PARA ESTADÍSTICAS Y POSICIONES
 # -------------------------------------------------------------
@@ -40,7 +38,6 @@ WIKI_STANDINGS = {
         "https://en.wikipedia.org/wiki/2025_IndyCar_Series"
     ]
 }
-
 # -------------------------------------------------------------
 # PARSEADOR DE CALENDARIOS (ICS -> JSON Races)
 # -------------------------------------------------------------
@@ -55,7 +52,6 @@ def is_main_race(summary, category):
     if any(k in s for k in session_keywords):
         return False
     return True
-
 def clean_gp_name(summary, category):
     name = summary
     if "|" in name:
@@ -82,7 +78,6 @@ def clean_gp_name(summary, category):
     # Corregir doble "de" si se traduce mal
     name = name.replace("Rally de de", "Rally de")
     return name
-
 def parse_ics_calendar(category, url):
     print(f"Descargando calendario ICS para {category}...")
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
@@ -174,7 +169,6 @@ def parse_ics_calendar(category, url):
         
     print(f" -> Sincronizadas {len(races)} carreras para {category}")
     return races
-
 # -------------------------------------------------------------
 # PARSEADOR DE ESTADÍSTICAS (Wikipedia -> JSON Standings)
 # -------------------------------------------------------------
@@ -266,7 +260,6 @@ def fetch_wikipedia_standings(category, urls):
                 
     print(f" /!\\ No se encontraron tablas de clasificación válidas para {category}")
     return []
-
 # -------------------------------------------------------------
 # EJECUCIÓN PRINCIPAL
 # -------------------------------------------------------------
@@ -292,6 +285,5 @@ def main():
         with open("standings.json", "w", encoding="utf-8") as f:
             json.dump(all_standings, f, ensure_ascii=False, indent=2)
         print(" Clasificaciones standings.json actualizadas con éxito.")
-
 if __name__ == "__main__":
     main()
