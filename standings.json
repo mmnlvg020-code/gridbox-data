@@ -1,53 +1,409 @@
 {
-  "NASCAR": [
+  "WRC": [
     {
       "position": 1,
-      "name": "Deportivo Maldonado",
-      "points": 39.0,
-      "wins": 12,
-      "category": "NASCAR",
+      "name": "Elfyn Evans",
+      "points": 162.0,
+      "wins": 0,
+      "category": "WRC",
       "isDriver": true,
-      "teamName": "Deportivo Maldonado",
+      "teamName": "",
       "nationality": ""
     },
     {
       "position": 2,
-      "name": "Racing Montevideo",
-      "points": 37.0,
-      "wins": 10,
-      "category": "NASCAR",
+      "name": "Takamoto Katsuta",
+      "points": 151.0,
+      "wins": 0,
+      "category": "WRC",
       "isDriver": true,
-      "teamName": "Racing Montevideo",
+      "teamName": "",
       "nationality": ""
     },
     {
       "position": 3,
-      "name": "Peñarol",
-      "points": 36.0,
-      "wins": 11,
-      "category": "NASCAR",
+      "name": "Sébastien Ogier",
+      "points": 125.0,
+      "wins": 0,
+      "category": "WRC",
       "isDriver": true,
-      "teamName": "Peñarol",
+      "teamName": "",
       "nationality": ""
     },
     {
       "position": 4,
-      "name": "Albion",
-      "points": 32.0,
-      "wins": 9,
-      "category": "NASCAR",
+      "name": "Sami Pajari",
+      "points": 116.0,
+      "wins": 0,
+      "category": "WRC",
       "isDriver": true,
-      "teamName": "Albion",
+      "teamName": "",
       "nationality": ""
     },
     {
       "position": 5,
-      "name": "Nacional Montevideo",
-      "points": 31.0,
-      "wins": 10,
-      "category": "NASCAR",
+      "name": "Oliver Solberg",
+      "points": 103.0,
+      "wins": 0,
+      "category": "WRC",
       "isDriver": true,
-      "teamName": "Nacional Montevideo",
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 6,
+      "name": "Thierry Neuville",
+      "points": 95.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 7,
+      "name": "Adrien Fourmaux",
+      "points": 95.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 8,
+      "name": "Hayden Paddon",
+      "points": 21.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 9,
+      "name": "Esapekka Lappi",
+      "points": 21.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 10,
+      "name": "Yohan Rossel",
+      "points": 20.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    }
+  ],
+  "WEC": [
+    {
+      "position": 1,
+      "name": "Mike Conway",
+      "points": 75.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 2,
+      "name": "Kamui Kobayashi",
+      "points": 75.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 3,
+      "name": "Nyck de Vries",
+      "points": 75.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 4,
+      "name": "Robin Frijns",
+      "points": 71.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 5,
+      "name": "René Rast",
+      "points": 71.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 6,
+      "name": "Sheldon van der Linde",
+      "points": 61.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 7,
+      "name": "Sébastien Buemi",
+      "points": 56.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 8,
+      "name": "Brendon Hartley",
+      "points": 56.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 9,
+      "name": "Ryō Hirakawa",
+      "points": 56.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 10,
+      "name": "James Calado",
+      "points": 39.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    }
+  ],
+  "MOTOGP": [
+    {
+      "position": 1,
+      "name": "Jorge Martín",
+      "points": 193.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 2,
+      "name": "Marco Bezzecchi",
+      "points": 186.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 3,
+      "name": "Fabio Di Giannantonio",
+      "points": 177.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 4,
+      "name": "Ai Ogura",
+      "points": 168.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 5,
+      "name": "Marc Márquez",
+      "points": 153.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 6,
+      "name": "Raúl Fernández",
+      "points": 138.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 7,
+      "name": "Pedro Acosta",
+      "points": 133.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 8,
+      "name": "Francesco Bagnaia",
+      "points": 130.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 9,
+      "name": "Álex Márquez",
+      "points": 78.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 10,
+      "name": "Fermín Aldeguer",
+      "points": 76.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    }
+  ],
+  "INDYCAR": [
+    {
+      "position": 1,
+      "name": "Álex Palou",
+      "points": 0.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 2,
+      "name": "Kyle Kirkwood",
+      "points": 348.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 3,
+      "name": "Christian Lundgaard",
+      "points": 339.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 4,
+      "name": "David Malukas",
+      "points": 338.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 5,
+      "name": "Pato O'Ward",
+      "points": 310.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 6,
+      "name": "Josef Newgarden",
+      "points": 270.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 7,
+      "name": "Felix Rosenqvist",
+      "points": 265.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 8,
+      "name": "Scott McLaughlin",
+      "points": 262.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 9,
+      "name": "Scott Dixon",
+      "points": 224.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 10,
+      "name": "Marcus Ericsson",
+      "points": 222.0,
+      "wins": 0,
+      "category": "INDYCAR",
+      "isDriver": true,
+      "teamName": "",
       "nationality": ""
     }
   ]
