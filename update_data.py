@@ -1,8 +1,28 @@
 import urllib.request
+import urllib.parse
+import urllib.error
 import re
 import html
 import json
 import datetime
+import os
+import traceback
+
+def send_telegram_message(text):
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        print("Telegram Token o Chat ID no configurados.")
+        return
+        
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    data = urllib.parse.urlencode({'chat_id': chat_id, 'text': text}).encode('utf-8')
+    try:
+        req = urllib.request.Request(url, data=data)
+        with urllib.request.urlopen(req) as response:
+            pass
+    except Exception as e:
+        print(f"Error enviando mensaje a Telegram: {e}")
 
 # -------------------------------------------------------------
 # 1. DIRECCIONES DE CALENDARIOS EN FORMATO ICS (iCal)
@@ -328,4 +348,10 @@ def main():
         print(f" Clasificaciones {standings_path} actualizadas con éxito.")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+        send_telegram_message("✅ GridBox Data: Sincronización finalizada correctamente.")
+    except Exception as e:
+        error_msg = traceback.format_exc()
+        send_telegram_message(f"🚨 GridBox Data: ERROR CRÍTICO durante la sincronización:\n\n{str(e)}\n\n{error_msg[:1000]}")
+        raise e
