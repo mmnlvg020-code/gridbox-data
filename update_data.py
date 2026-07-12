@@ -306,8 +306,6 @@ def fetch_wikipedia_standings(category, urls):
                 }
                 standings.append(standing)
                 pos += 1
-                if pos > 10:
-                    break
                     
             if standings:
                 print(f" -> Clasificación sincronizada con éxito ({len(standings)} pilotos).")
