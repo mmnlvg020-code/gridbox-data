@@ -3,7 +3,7 @@
     {
       "position": 1,
       "name": "Elfyn Evans",
-      "points": 162.0,
+      "points": 177.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -13,7 +13,7 @@
     {
       "position": 2,
       "name": "Takamoto Katsuta",
-      "points": 151.0,
+      "points": 152.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -22,8 +22,8 @@
     },
     {
       "position": 3,
-      "name": "Sébastien Ogier",
-      "points": 125.0,
+      "name": "Sami Pajari",
+      "points": 144.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -32,8 +32,8 @@
     },
     {
       "position": 4,
-      "name": "Sami Pajari",
-      "points": 116.0,
+      "name": "Sébastien Ogier",
+      "points": 139.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -43,7 +43,7 @@
     {
       "position": 5,
       "name": "Oliver Solberg",
-      "points": 103.0,
+      "points": 130.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -53,7 +53,7 @@
     {
       "position": 6,
       "name": "Thierry Neuville",
-      "points": 95.0,
+      "points": 111.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -63,7 +63,7 @@
     {
       "position": 7,
       "name": "Adrien Fourmaux",
-      "points": 95.0,
+      "points": 111.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -72,8 +72,8 @@
     },
     {
       "position": 8,
-      "name": "Hayden Paddon",
-      "points": 21.0,
+      "name": "Esapekka Lappi",
+      "points": 25.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -82,7 +82,7 @@
     },
     {
       "position": 9,
-      "name": "Esapekka Lappi",
+      "name": "Hayden Paddon",
       "points": 21.0,
       "wins": 0,
       "category": "WRC",
@@ -112,6 +112,16 @@
     },
     {
       "position": 12,
+      "name": "Jon Armstrong",
+      "points": 16.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 13,
       "name": "Josh McErlean",
       "points": 15.0,
       "wins": 0,
@@ -121,19 +131,9 @@
       "nationality": ""
     },
     {
-      "position": 13,
-      "name": "Jon Armstrong",
-      "points": 14.0,
-      "wins": 0,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 14,
       "name": "Robert Virves",
-      "points": 12.0,
+      "points": 13.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -142,6 +142,16 @@
     },
     {
       "position": 15,
+      "name": "Mārtiņš Sesks",
+      "points": 12.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 16,
       "name": "Nikolay Gryazin",
       "points": 10.0,
       "wins": 0,
@@ -151,7 +161,7 @@
       "nationality": ""
     },
     {
-      "position": 16,
+      "position": 17,
       "name": "Dani Sordo",
       "points": 10.0,
       "wins": 0,
@@ -161,7 +171,7 @@
       "nationality": ""
     },
     {
-      "position": 17,
+      "position": 18,
       "name": "Gus Greensmith",
       "points": 8.0,
       "wins": 0,
@@ -171,7 +181,7 @@
       "nationality": ""
     },
     {
-      "position": 18,
+      "position": 19,
       "name": "Alejandro Cachón",
       "points": 7.0,
       "wins": 0,
@@ -181,7 +191,7 @@
       "nationality": ""
     },
     {
-      "position": 19,
+      "position": 20,
       "name": "Fabrizio Zaldivar",
       "points": 6.0,
       "wins": 0,
@@ -191,18 +201,8 @@
       "nationality": ""
     },
     {
-      "position": 20,
-      "name": "Roberto Daprà",
-      "points": 6.0,
-      "wins": 0,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 21,
-      "name": "Mārtiņš Sesks",
+      "name": "Roberto Daprà",
       "points": 6.0,
       "wins": 0,
       "category": "WRC",
