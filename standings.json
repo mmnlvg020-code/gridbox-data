@@ -1118,8 +1118,8 @@
     },
     {
       "position": 2,
-      "name": "Kyle Kirkwood",
-      "points": 349.0,
+      "name": "David Malukas",
+      "points": 374.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1128,8 +1128,8 @@
     },
     {
       "position": 3,
-      "name": "Christian Lundgaard",
-      "points": 339.0,
+      "name": "Kyle Kirkwood",
+      "points": 370.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1138,8 +1138,8 @@
     },
     {
       "position": 4,
-      "name": "David Malukas",
-      "points": 338.0,
+      "name": "Christian Lundgaard",
+      "points": 353.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1149,7 +1149,7 @@
     {
       "position": 5,
       "name": "Pato O'Ward",
-      "points": 310.0,
+      "points": 336.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1159,7 +1159,7 @@
     {
       "position": 6,
       "name": "Josef Newgarden",
-      "points": 270.0,
+      "points": 310.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1169,7 +1169,7 @@
     {
       "position": 7,
       "name": "Felix Rosenqvist",
-      "points": 265.0,
+      "points": 296.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1179,7 +1179,7 @@
     {
       "position": 8,
       "name": "Scott McLaughlin",
-      "points": 262.0,
+      "points": 295.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1188,8 +1188,8 @@
     },
     {
       "position": 9,
-      "name": "Scott Dixon",
-      "points": 224.0,
+      "name": "Marcus Ericsson",
+      "points": 250.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1198,8 +1198,8 @@
     },
     {
       "position": 10,
-      "name": "Marcus Ericsson",
-      "points": 222.0,
+      "name": "Rinus VeeKay",
+      "points": 237.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1208,8 +1208,8 @@
     },
     {
       "position": 11,
-      "name": "Rinus VeeKay",
-      "points": 219.0,
+      "name": "Scott Dixon",
+      "points": 236.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1218,8 +1218,8 @@
     },
     {
       "position": 12,
-      "name": "Marcus Armstrong",
-      "points": 219.0,
+      "name": "Graham Rahal",
+      "points": 229.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1228,8 +1228,8 @@
     },
     {
       "position": 13,
-      "name": "Graham Rahal",
-      "points": 218.0,
+      "name": "Marcus Armstrong",
+      "points": 225.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1239,7 +1239,7 @@
     {
       "position": 14,
       "name": "Will Power",
-      "points": 209.0,
+      "points": 220.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1249,7 +1249,7 @@
     {
       "position": 15,
       "name": "Kyffin Simpson",
-      "points": 194.0,
+      "points": 216.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1259,7 +1259,7 @@
     {
       "position": 16,
       "name": "Alexander Rossi",
-      "points": 190.0,
+      "points": 197.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1269,7 +1269,7 @@
     {
       "position": 17,
       "name": "Santino Ferrucci",
-      "points": 179.0,
+      "points": 196.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1279,7 +1279,7 @@
     {
       "position": 18,
       "name": "Louis Foster",
-      "points": 159.0,
+      "points": 173.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1288,8 +1288,8 @@
     },
     {
       "position": 19,
-      "name": "Dennis Hauger        R",
-      "points": 148.0,
+      "name": "Nolan Siegel",
+      "points": 164.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1298,8 +1298,8 @@
     },
     {
       "position": 20,
-      "name": "Nolan Siegel",
-      "points": 145.0,
+      "name": "Dennis Hauger        R",
+      "points": 157.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1308,8 +1308,8 @@
     },
     {
       "position": 21,
-      "name": "Christian Rasmussen",
-      "points": 143.0,
+      "name": "Romain Grosjean",
+      "points": 155.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1318,8 +1318,8 @@
     },
     {
       "position": 22,
-      "name": "Romain Grosjean",
-      "points": 139.0,
+      "name": "Christian Rasmussen",
+      "points": 151.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1329,7 +1329,7 @@
     {
       "position": 23,
       "name": "Caio Collet        R",
-      "points": 132.0,
+      "points": 137.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1338,8 +1338,8 @@
     },
     {
       "position": 24,
-      "name": "Sting Ray Robb",
-      "points": 108.0,
+      "name": "Mick Schumacher        R",
+      "points": 132.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1348,8 +1348,8 @@
     },
     {
       "position": 25,
-      "name": "Mick Schumacher        R",
-      "points": 108.0,
+      "name": "Sting Ray Robb",
+      "points": 123.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
