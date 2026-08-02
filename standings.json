@@ -3,7 +3,7 @@
     {
       "position": 1,
       "name": "Elfyn Evans",
-      "points": 177.0,
+      "points": 201.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -12,8 +12,8 @@
     },
     {
       "position": 2,
-      "name": "Takamoto Katsuta",
-      "points": 152.0,
+      "name": "Sami Pajari",
+      "points": 171.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -22,8 +22,8 @@
     },
     {
       "position": 3,
-      "name": "Sami Pajari",
-      "points": 144.0,
+      "name": "Takamoto Katsuta",
+      "points": 160.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -32,6 +32,16 @@
     },
     {
       "position": 4,
+      "name": "Oliver Solberg",
+      "points": 156.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 5,
       "name": "Sébastien Ogier",
       "points": 139.0,
       "wins": 0,
@@ -41,19 +51,9 @@
       "nationality": ""
     },
     {
-      "position": 5,
-      "name": "Oliver Solberg",
-      "points": 130.0,
-      "wins": 0,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 6,
-      "name": "Thierry Neuville",
-      "points": 111.0,
+      "name": "Adrien Fourmaux",
+      "points": 129.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -62,8 +62,8 @@
     },
     {
       "position": 7,
-      "name": "Adrien Fourmaux",
-      "points": 111.0,
+      "name": "Thierry Neuville",
+      "points": 125.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -92,6 +92,16 @@
     },
     {
       "position": 10,
+      "name": "Josh McErlean",
+      "points": 21.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 11,
       "name": "Yohan Rossel",
       "points": 20.0,
       "wins": 0,
@@ -101,7 +111,7 @@
       "nationality": ""
     },
     {
-      "position": 11,
+      "position": 12,
       "name": "Léo Rossel",
       "points": 18.0,
       "wins": 0,
@@ -111,7 +121,7 @@
       "nationality": ""
     },
     {
-      "position": 12,
+      "position": 13,
       "name": "Jon Armstrong",
       "points": 16.0,
       "wins": 0,
@@ -121,19 +131,9 @@
       "nationality": ""
     },
     {
-      "position": 13,
-      "name": "Josh McErlean",
-      "points": 15.0,
-      "wins": 0,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 14,
       "name": "Robert Virves",
-      "points": 13.0,
+      "points": 15.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -232,6 +232,16 @@
     },
     {
       "position": 24,
+      "name": "Jari-Matti Latvala",
+      "points": 4.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 25,
       "name": "Diego Domínguez Jr.",
       "points": 2.0,
       "wins": 0,
@@ -241,18 +251,8 @@
       "nationality": ""
     },
     {
-      "position": 25,
-      "name": "Arthur Pelamourgues",
-      "points": 2.0,
-      "wins": 0,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 26,
-      "name": "Matteo Fontana",
+      "name": "Arthur Pelamourgues",
       "points": 2.0,
       "wins": 0,
       "category": "WRC",
@@ -263,7 +263,7 @@
     {
       "position": 27,
       "name": "Teemu Suninen",
-      "points": 1.0,
+      "points": 2.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -272,6 +272,16 @@
     },
     {
       "position": 28,
+      "name": "Matteo Fontana",
+      "points": 2.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 29,
       "name": "Eric Camilli",
       "points": 1.0,
       "wins": 0,
@@ -281,7 +291,7 @@
       "nationality": ""
     },
     {
-      "position": 29,
+      "position": 30,
       "name": "Emil Lindholm",
       "points": 1.0,
       "wins": 0,
@@ -291,7 +301,7 @@
       "nationality": ""
     },
     {
-      "position": 30,
+      "position": 31,
       "name": "Sources:",
       "points": 0.0,
       "wins": 0,
