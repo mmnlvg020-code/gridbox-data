@@ -827,7 +827,7 @@
     {
       "position": 1,
       "name": "Jorge Martín",
-      "points": 208.0,
+      "points": 220.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -837,7 +837,7 @@
     {
       "position": 2,
       "name": "Ai Ogura",
-      "points": 194.0,
+      "points": 203.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -846,8 +846,8 @@
     },
     {
       "position": 3,
-      "name": "Marc Márquez",
-      "points": 190.0,
+      "name": "Marco Bezzecchi",
+      "points": 195.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -856,8 +856,8 @@
     },
     {
       "position": 4,
-      "name": "Marco Bezzecchi",
-      "points": 186.0,
+      "name": "Marc Márquez",
+      "points": 191.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -867,7 +867,7 @@
     {
       "position": 5,
       "name": "Fabio Di Giannantonio",
-      "points": 184.0,
+      "points": 189.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -887,7 +887,7 @@
     {
       "position": 7,
       "name": "Pedro Acosta",
-      "points": 148.0,
+      "points": 152.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -907,7 +907,7 @@
     {
       "position": 9,
       "name": "Álex Márquez",
-      "points": 87.0,
+      "points": 93.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -977,7 +977,7 @@
     {
       "position": 16,
       "name": "Franco Morbidelli",
-      "points": 46.0,
+      "points": 48.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -997,7 +997,7 @@
     {
       "position": 18,
       "name": "Joan Mir",
-      "points": 26.0,
+      "points": 29.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
