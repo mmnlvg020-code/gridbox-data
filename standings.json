@@ -1106,6 +1106,16 @@
     },
     {
       "position": 29,
+      "name": "Pol Espargaró",
+      "points": 0.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 30,
       "name": "Source:",
       "points": 0.0,
       "wins": 0,
