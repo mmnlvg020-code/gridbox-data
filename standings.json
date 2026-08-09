@@ -827,7 +827,7 @@
     {
       "position": 1,
       "name": "Jorge Martín",
-      "points": 220.0,
+      "points": 240.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -836,6 +836,16 @@
     },
     {
       "position": 2,
+      "name": "Marco Bezzecchi",
+      "points": 209.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 3,
       "name": "Ai Ogura",
       "points": 203.0,
       "wins": 0,
@@ -845,19 +855,9 @@
       "nationality": ""
     },
     {
-      "position": 3,
-      "name": "Marco Bezzecchi",
-      "points": 195.0,
-      "wins": 0,
-      "category": "MOTOGP",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 4,
       "name": "Marc Márquez",
-      "points": 191.0,
+      "points": 200.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -867,7 +867,7 @@
     {
       "position": 5,
       "name": "Fabio Di Giannantonio",
-      "points": 189.0,
+      "points": 199.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -877,7 +877,7 @@
     {
       "position": 6,
       "name": "Raúl Fernández",
-      "points": 159.0,
+      "points": 184.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -887,7 +887,7 @@
     {
       "position": 7,
       "name": "Pedro Acosta",
-      "points": 152.0,
+      "points": 163.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -907,7 +907,7 @@
     {
       "position": 9,
       "name": "Álex Márquez",
-      "points": 93.0,
+      "points": 106.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -917,7 +917,7 @@
     {
       "position": 10,
       "name": "Luca Marini",
-      "points": 79.0,
+      "points": 86.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -947,7 +947,7 @@
     {
       "position": 13,
       "name": "Brad Binder",
-      "points": 64.0,
+      "points": 72.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -957,7 +957,7 @@
     {
       "position": 14,
       "name": "Fabio Quartararo",
-      "points": 55.0,
+      "points": 59.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -967,7 +967,7 @@
     {
       "position": 15,
       "name": "Diogo Moreira",
-      "points": 48.0,
+      "points": 54.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -977,7 +977,7 @@
     {
       "position": 16,
       "name": "Franco Morbidelli",
-      "points": 48.0,
+      "points": 53.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1006,6 +1006,16 @@
     },
     {
       "position": 19,
+      "name": "Jack Miller",
+      "points": 22.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 20,
       "name": "Álex Rins",
       "points": 21.0,
       "wins": 0,
@@ -1015,19 +1025,9 @@
       "nationality": ""
     },
     {
-      "position": 20,
-      "name": "Jack Miller",
-      "points": 19.0,
-      "wins": 0,
-      "category": "MOTOGP",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 21,
       "name": "Toprak Razgatlıoğlu",
-      "points": 12.0,
+      "points": 13.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1066,6 +1066,16 @@
     },
     {
       "position": 25,
+      "name": "Pol Espargaró",
+      "points": 2.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 26,
       "name": "Cal Crutchlow",
       "points": 0.0,
       "wins": 0,
@@ -1075,7 +1085,7 @@
       "nationality": ""
     },
     {
-      "position": 26,
+      "position": 27,
       "name": "Jonas Folger",
       "points": 0.0,
       "wins": 0,
@@ -1085,7 +1095,7 @@
       "nationality": ""
     },
     {
-      "position": 27,
+      "position": 28,
       "name": "Michele Pirro",
       "points": 0.0,
       "wins": 0,
@@ -1095,18 +1105,8 @@
       "nationality": ""
     },
     {
-      "position": 28,
-      "name": "Lorenzo Savadori",
-      "points": 0.0,
-      "wins": 0,
-      "category": "MOTOGP",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 29,
-      "name": "Pol Espargaró",
+      "name": "Lorenzo Savadori",
       "points": 0.0,
       "wins": 0,
       "category": "MOTOGP",
