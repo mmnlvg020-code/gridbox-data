@@ -957,7 +957,7 @@
     {
       "position": 14,
       "name": "Fabio Quartararo",
-      "points": 59.0,
+      "points": 55.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1007,7 +1007,7 @@
     {
       "position": 19,
       "name": "Jack Miller",
-      "points": 22.0,
+      "points": 23.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1027,7 +1027,7 @@
     {
       "position": 21,
       "name": "Toprak Razgatlıoğlu",
-      "points": 13.0,
+      "points": 14.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1057,7 +1057,7 @@
     {
       "position": 24,
       "name": "Augusto Fernández",
-      "points": 5.0,
+      "points": 6.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1067,7 +1067,7 @@
     {
       "position": 25,
       "name": "Pol Espargaró",
-      "points": 2.0,
+      "points": 3.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1138,8 +1138,8 @@
     },
     {
       "position": 2,
-      "name": "David Malukas",
-      "points": 374.0,
+      "name": "Kyle Kirkwood",
+      "points": 400.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1148,8 +1148,8 @@
     },
     {
       "position": 3,
-      "name": "Kyle Kirkwood",
-      "points": 370.0,
+      "name": "David Malukas",
+      "points": 392.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1159,7 +1159,7 @@
     {
       "position": 4,
       "name": "Christian Lundgaard",
-      "points": 353.0,
+      "points": 375.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1169,7 +1169,7 @@
     {
       "position": 5,
       "name": "Pato O'Ward",
-      "points": 336.0,
+      "points": 355.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1178,8 +1178,8 @@
     },
     {
       "position": 6,
-      "name": "Josef Newgarden",
-      "points": 310.0,
+      "name": "Felix Rosenqvist",
+      "points": 338.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1188,8 +1188,8 @@
     },
     {
       "position": 7,
-      "name": "Felix Rosenqvist",
-      "points": 297.0,
+      "name": "Josef Newgarden",
+      "points": 335.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1199,7 +1199,7 @@
     {
       "position": 8,
       "name": "Scott McLaughlin",
-      "points": 295.0,
+      "points": 321.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1209,7 +1209,7 @@
     {
       "position": 9,
       "name": "Marcus Ericsson",
-      "points": 250.0,
+      "points": 278.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1219,7 +1219,7 @@
     {
       "position": 10,
       "name": "Rinus VeeKay",
-      "points": 237.0,
+      "points": 269.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1228,8 +1228,8 @@
     },
     {
       "position": 11,
-      "name": "Scott Dixon",
-      "points": 236.0,
+      "name": "Will Power",
+      "points": 256.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1238,8 +1238,8 @@
     },
     {
       "position": 12,
-      "name": "Graham Rahal",
-      "points": 229.0,
+      "name": "Scott Dixon",
+      "points": 252.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1248,8 +1248,8 @@
     },
     {
       "position": 13,
-      "name": "Marcus Armstrong",
-      "points": 225.0,
+      "name": "Kyffin Simpson",
+      "points": 236.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1258,8 +1258,8 @@
     },
     {
       "position": 14,
-      "name": "Will Power",
-      "points": 220.0,
+      "name": "Graham Rahal",
+      "points": 236.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1268,8 +1268,8 @@
     },
     {
       "position": 15,
-      "name": "Kyffin Simpson",
-      "points": 216.0,
+      "name": "Marcus Armstrong",
+      "points": 230.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1279,7 +1279,7 @@
     {
       "position": 16,
       "name": "Alexander Rossi",
-      "points": 197.0,
+      "points": 208.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1289,7 +1289,7 @@
     {
       "position": 17,
       "name": "Santino Ferrucci",
-      "points": 196.0,
+      "points": 205.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1299,7 +1299,7 @@
     {
       "position": 18,
       "name": "Louis Foster",
-      "points": 173.0,
+      "points": 188.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1309,7 +1309,7 @@
     {
       "position": 19,
       "name": "Nolan Siegel",
-      "points": 164.0,
+      "points": 176.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1319,7 +1319,7 @@
     {
       "position": 20,
       "name": "Dennis Hauger        R",
-      "points": 157.0,
+      "points": 174.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1329,7 +1329,7 @@
     {
       "position": 21,
       "name": "Romain Grosjean",
-      "points": 155.0,
+      "points": 168.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1339,7 +1339,7 @@
     {
       "position": 22,
       "name": "Christian Rasmussen",
-      "points": 151.0,
+      "points": 157.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1349,7 +1349,7 @@
     {
       "position": 23,
       "name": "Caio Collet        R",
-      "points": 137.0,
+      "points": 147.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1359,7 +1359,7 @@
     {
       "position": 24,
       "name": "Mick Schumacher        R",
-      "points": 132.0,
+      "points": 146.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1369,7 +1369,7 @@
     {
       "position": 25,
       "name": "Sting Ray Robb",
-      "points": 123.0,
+      "points": 131.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
