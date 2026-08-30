@@ -827,7 +827,7 @@
     {
       "position": 1,
       "name": "Jorge Martín",
-      "points": 240.0,
+      "points": 245.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -837,7 +837,7 @@
     {
       "position": 2,
       "name": "Marco Bezzecchi",
-      "points": 209.0,
+      "points": 216.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -846,8 +846,8 @@
     },
     {
       "position": 3,
-      "name": "Ai Ogura",
-      "points": 203.0,
+      "name": "Marc Márquez",
+      "points": 212.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -856,8 +856,8 @@
     },
     {
       "position": 4,
-      "name": "Marc Márquez",
-      "points": 200.0,
+      "name": "Ai Ogura",
+      "points": 203.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -877,7 +877,7 @@
     {
       "position": 6,
       "name": "Raúl Fernández",
-      "points": 184.0,
+      "points": 186.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -887,7 +887,7 @@
     {
       "position": 7,
       "name": "Pedro Acosta",
-      "points": 163.0,
+      "points": 169.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -907,7 +907,7 @@
     {
       "position": 9,
       "name": "Álex Márquez",
-      "points": 106.0,
+      "points": 115.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -927,7 +927,7 @@
     {
       "position": 11,
       "name": "Fermín Aldeguer",
-      "points": 76.0,
+      "points": 80.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -956,8 +956,8 @@
     },
     {
       "position": 14,
-      "name": "Fabio Quartararo",
-      "points": 55.0,
+      "name": "Diogo Moreira",
+      "points": 57.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -966,8 +966,8 @@
     },
     {
       "position": 15,
-      "name": "Diogo Moreira",
-      "points": 54.0,
+      "name": "Fabio Quartararo",
+      "points": 55.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -987,7 +987,7 @@
     {
       "position": 17,
       "name": "Johann Zarco",
-      "points": 34.0,
+      "points": 35.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
