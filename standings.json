@@ -394,8 +394,8 @@
     },
     {
       "position": 7,
-      "name": "James Calado",
-      "points": 57.0,
+      "name": "Sébastien Buemi",
+      "points": 64.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -404,8 +404,8 @@
     },
     {
       "position": 8,
-      "name": "Antonio Giovinazzi",
-      "points": 57.0,
+      "name": "Brendon Hartley",
+      "points": 64.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -414,8 +414,8 @@
     },
     {
       "position": 9,
-      "name": "Alessandro Pier Guidi",
-      "points": 57.0,
+      "name": "Ryō Hirakawa",
+      "points": 64.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -424,8 +424,8 @@
     },
     {
       "position": 10,
-      "name": "Sébastien Buemi",
-      "points": 56.0,
+      "name": "James Calado",
+      "points": 58.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -434,8 +434,8 @@
     },
     {
       "position": 11,
-      "name": "Brendon Hartley",
-      "points": 56.0,
+      "name": "Antonio Giovinazzi",
+      "points": 58.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -444,8 +444,8 @@
     },
     {
       "position": 12,
-      "name": "Ryō Hirakawa",
-      "points": 56.0,
+      "name": "Alessandro Pier Guidi",
+      "points": 58.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -455,7 +455,7 @@
     {
       "position": 13,
       "name": "Kevin Magnussen",
-      "points": 50.0,
+      "points": 54.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -465,7 +465,7 @@
     {
       "position": 14,
       "name": "Raffaele Marciello",
-      "points": 50.0,
+      "points": 54.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -474,8 +474,8 @@
     },
     {
       "position": 15,
-      "name": "Dries Vanthoor",
-      "points": 44.0,
+      "name": "Antonio Fuoco",
+      "points": 54.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -484,8 +484,8 @@
     },
     {
       "position": 16,
-      "name": "Norman Nato",
-      "points": 42.0,
+      "name": "Miguel Molina",
+      "points": 54.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -494,8 +494,8 @@
     },
     {
       "position": 17,
-      "name": "Will Stevens",
-      "points": 42.0,
+      "name": "Nicklas Nielsen",
+      "points": 54.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -504,6 +504,106 @@
     },
     {
       "position": 18,
+      "name": "Dries Vanthoor",
+      "points": 48.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 19,
+      "name": "António Félix da Costa",
+      "points": 44.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 20,
+      "name": "Ferdinand Habsburg",
+      "points": 44.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 21,
+      "name": "Charles Milesi",
+      "points": 44.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 22,
+      "name": "Norman Nato",
+      "points": 44.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 23,
+      "name": "Will Stevens",
+      "points": 44.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 24,
+      "name": "Tom Gamble",
+      "points": 42.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 25,
+      "name": "Harry Tincknell",
+      "points": 42.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 26,
+      "name": "Earl Bamber",
+      "points": 34.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 27,
+      "name": "Sébastien Bourdais",
+      "points": 34.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 28,
       "name": "Phil Hanson",
       "points": 31.0,
       "wins": 0,
@@ -513,7 +613,7 @@
       "nationality": ""
     },
     {
-      "position": 19,
+      "position": 29,
       "name": "Robert Kubica",
       "points": 31.0,
       "wins": 0,
@@ -523,7 +623,7 @@
       "nationality": ""
     },
     {
-      "position": 20,
+      "position": 30,
       "name": "Yifei Ye",
       "points": 31.0,
       "wins": 0,
@@ -533,8 +633,8 @@
       "nationality": ""
     },
     {
-      "position": 21,
-      "name": "Tom Gamble",
+      "position": 31,
+      "name": "Jack Aitken",
       "points": 30.0,
       "wins": 0,
       "category": "WEC",
@@ -543,77 +643,7 @@
       "nationality": ""
     },
     {
-      "position": 22,
-      "name": "Harry Tincknell",
-      "points": 30.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 23,
-      "name": "Antonio Fuoco",
-      "points": 29.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 24,
-      "name": "Miguel Molina",
-      "points": 29.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 25,
-      "name": "Nicklas Nielsen",
-      "points": 29.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 26,
-      "name": "António Félix da Costa",
-      "points": 29.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 27,
-      "name": "Ferdinand Habsburg",
-      "points": 29.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 28,
-      "name": "Charles Milesi",
-      "points": 29.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 29,
+      "position": 32,
       "name": "Louis Delétraz",
       "points": 26.0,
       "wins": 0,
@@ -623,37 +653,67 @@
       "nationality": ""
     },
     {
-      "position": 30,
-      "name": "Earl Bamber",
-      "points": 16.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 31,
-      "name": "Sébastien Bourdais",
-      "points": 16.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 32,
-      "name": "Jack Aitken",
-      "points": 12.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 33,
+      "name": "Frédéric Makowiecki",
+      "points": 14.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 34,
+      "name": "Victor Martins",
+      "points": 14.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 35,
+      "name": "Jules Gounon",
+      "points": 14.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 36,
+      "name": "Pipo Derani",
+      "points": 10.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 37,
+      "name": "Mathys Jaubert",
+      "points": 10.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 38,
+      "name": "André Lotterer",
+      "points": 10.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 39,
       "name": "Ross Gunn",
       "points": 8.0,
       "wins": 0,
@@ -663,7 +723,7 @@
       "nationality": ""
     },
     {
-      "position": 34,
+      "position": 40,
       "name": "Nick Cassidy",
       "points": 6.0,
       "wins": 0,
@@ -673,7 +733,7 @@
       "nationality": ""
     },
     {
-      "position": 35,
+      "position": 41,
       "name": "Paul di Resta",
       "points": 6.0,
       "wins": 0,
@@ -683,7 +743,7 @@
       "nationality": ""
     },
     {
-      "position": 36,
+      "position": 42,
       "name": "Stoffel Vandoorne",
       "points": 6.0,
       "wins": 0,
@@ -693,69 +753,9 @@
       "nationality": ""
     },
     {
-      "position": 37,
-      "name": "Pipo Derani",
-      "points": 4.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 38,
-      "name": "Mathys Jaubert",
-      "points": 4.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 39,
-      "name": "André Lotterer",
-      "points": 4.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 40,
-      "name": "Frédéric Makowiecki",
-      "points": 4.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 41,
-      "name": "Victor Martins",
-      "points": 4.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 42,
-      "name": "Jules Gounon",
-      "points": 4.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 43,
       "name": "Loïc Duval",
-      "points": 3.0,
+      "points": 4.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -765,7 +765,7 @@
     {
       "position": 44,
       "name": "Malthe Jakobsen",
-      "points": 3.0,
+      "points": 4.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -775,7 +775,7 @@
     {
       "position": 45,
       "name": "Théo Pourchaire",
-      "points": 3.0,
+      "points": 4.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
@@ -804,6 +804,16 @@
     },
     {
       "position": 48,
+      "name": "Ricky Taylor",
+      "points": 2.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 49,
       "name": "Paul-Loup Chatin",
       "points": 0.0,
       "wins": 0,
@@ -813,7 +823,7 @@
       "nationality": ""
     },
     {
-      "position": 49,
+      "position": 50,
       "name": "Mathieu Jaminet",
       "points": 0.0,
       "wins": 0,
@@ -823,7 +833,7 @@
       "nationality": ""
     },
     {
-      "position": 50,
+      "position": 51,
       "name": "Daniel Juncadella",
       "points": 0.0,
       "wins": 0,
@@ -833,7 +843,7 @@
       "nationality": ""
     },
     {
-      "position": 51,
+      "position": 52,
       "name": "Roman De Angelis",
       "points": 0.0,
       "wins": 0,
@@ -1168,8 +1178,8 @@
     },
     {
       "position": 2,
-      "name": "Christian Lundgaard",
-      "points": 507.0,
+      "name": "Kyle Kirkwood",
+      "points": 545.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1178,8 +1188,8 @@
     },
     {
       "position": 3,
-      "name": "Kyle Kirkwood",
-      "points": 505.0,
+      "name": "Christian Lundgaard",
+      "points": 535.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1189,7 +1199,7 @@
     {
       "position": 4,
       "name": "Pato O'Ward",
-      "points": 503.0,
+      "points": 522.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1199,7 +1209,7 @@
     {
       "position": 5,
       "name": "David Malukas",
-      "points": 484.0,
+      "points": 514.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1209,7 +1219,7 @@
     {
       "position": 6,
       "name": "Scott McLaughlin",
-      "points": 429.0,
+      "points": 483.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1218,8 +1228,8 @@
     },
     {
       "position": 7,
-      "name": "Josef Newgarden",
-      "points": 408.0,
+      "name": "Marcus Ericsson",
+      "points": 429.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1228,8 +1238,8 @@
     },
     {
       "position": 8,
-      "name": "Marcus Ericsson",
-      "points": 407.0,
+      "name": "Josef Newgarden",
+      "points": 423.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1239,7 +1249,7 @@
     {
       "position": 9,
       "name": "Felix Rosenqvist",
-      "points": 379.0,
+      "points": 412.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1249,7 +1259,7 @@
     {
       "position": 10,
       "name": "Rinus VeeKay",
-      "points": 364.0,
+      "points": 378.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1259,7 +1269,7 @@
     {
       "position": 11,
       "name": "Will Power",
-      "points": 351.0,
+      "points": 368.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1269,7 +1279,7 @@
     {
       "position": 12,
       "name": "Scott Dixon",
-      "points": 318.0,
+      "points": 331.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1279,7 +1289,7 @@
     {
       "position": 13,
       "name": "Kyffin Simpson",
-      "points": 307.0,
+      "points": 327.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1289,7 +1299,7 @@
     {
       "position": 14,
       "name": "Marcus Armstrong",
-      "points": 293.0,
+      "points": 320.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1298,8 +1308,8 @@
     },
     {
       "position": 15,
-      "name": "Graham Rahal",
-      "points": 291.0,
+      "name": "Alexander Rossi",
+      "points": 307.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1308,8 +1318,8 @@
     },
     {
       "position": 16,
-      "name": "Alexander Rossi",
-      "points": 271.0,
+      "name": "Graham Rahal",
+      "points": 302.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1319,7 +1329,7 @@
     {
       "position": 17,
       "name": "Santino Ferrucci",
-      "points": 262.0,
+      "points": 280.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1328,8 +1338,8 @@
     },
     {
       "position": 18,
-      "name": "Nolan Siegel",
-      "points": 253.0,
+      "name": "Louis Foster",
+      "points": 267.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1338,8 +1348,8 @@
     },
     {
       "position": 19,
-      "name": "Louis Foster",
-      "points": 251.0,
+      "name": "Romain Grosjean",
+      "points": 259.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1348,8 +1358,8 @@
     },
     {
       "position": 20,
-      "name": "Romain Grosjean",
-      "points": 247.0,
+      "name": "Nolan Siegel",
+      "points": 259.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1359,7 +1369,7 @@
     {
       "position": 21,
       "name": "Christian Rasmussen",
-      "points": 236.0,
+      "points": 245.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1369,7 +1379,7 @@
     {
       "position": 22,
       "name": "Dennis Hauger        R",
-      "points": 223.0,
+      "points": 228.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1379,7 +1389,7 @@
     {
       "position": 23,
       "name": "Mick Schumacher        R",
-      "points": 205.0,
+      "points": 213.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1389,7 +1399,7 @@
     {
       "position": 24,
       "name": "Caio Collet        R",
-      "points": 193.0,
+      "points": 203.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
@@ -1399,7 +1409,7 @@
     {
       "position": 25,
       "name": "Sting Ray Robb",
-      "points": 175.0,
+      "points": 182.0,
       "wins": 0,
       "category": "INDYCAR",
       "isDriver": true,
