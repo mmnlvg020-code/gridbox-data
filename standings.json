@@ -3,7 +3,7 @@
     {
       "position": 1,
       "name": "Elfyn Evans",
-      "points": 216.0,
+      "points": 230.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -13,7 +13,7 @@
     {
       "position": 2,
       "name": "Sami Pajari",
-      "points": 196.0,
+      "points": 213.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -23,7 +23,7 @@
     {
       "position": 3,
       "name": "Oliver Solberg",
-      "points": 175.0,
+      "points": 209.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -32,8 +32,8 @@
     },
     {
       "position": 4,
-      "name": "Takamoto Katsuta",
-      "points": 160.0,
+      "name": "Sébastien Ogier",
+      "points": 171.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -43,7 +43,7 @@
     {
       "position": 5,
       "name": "Adrien Fourmaux",
-      "points": 149.0,
+      "points": 167.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -52,8 +52,8 @@
     },
     {
       "position": 6,
-      "name": "Sébastien Ogier",
-      "points": 148.0,
+      "name": "Takamoto Katsuta",
+      "points": 163.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -83,7 +83,7 @@
     {
       "position": 9,
       "name": "Josh McErlean",
-      "points": 29.0,
+      "points": 35.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -93,7 +93,7 @@
     {
       "position": 10,
       "name": "Esapekka Lappi",
-      "points": 25.0,
+      "points": 33.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -103,7 +103,7 @@
     {
       "position": 11,
       "name": "Yohan Rossel",
-      "points": 20.0,
+      "points": 24.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
@@ -122,6 +122,16 @@
     },
     {
       "position": 13,
+      "name": "Robert Virves",
+      "points": 17.0,
+      "wins": 0,
+      "category": "WRC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 14,
       "name": "Jon Armstrong",
       "points": 16.0,
       "wins": 0,
@@ -131,19 +141,9 @@
       "nationality": ""
     },
     {
-      "position": 14,
-      "name": "Robert Virves",
-      "points": 15.0,
-      "wins": 0,
-      "category": "WRC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 15,
       "name": "Gus Greensmith",
-      "points": 12.0,
+      "points": 13.0,
       "wins": 0,
       "category": "WRC",
       "isDriver": true,
