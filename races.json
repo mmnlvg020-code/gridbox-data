@@ -169,19 +169,6 @@
     "circuitId": ""
   },
   {
-    "id": "wrc-2026-14",
-    "category": "WRC",
-    "name": "Rally de Saudi Arabia",
-    "circuit": "Jeddah Saudi Arabia",
-    "country": "",
-    "countryCode": "",
-    "dateTimestamp": 1794398400000,
-    "round": 14,
-    "season": 2026,
-    "isCompleted": false,
-    "circuitId": ""
-  },
-  {
     "id": "wec-2026-1",
     "category": "WEC",
     "name": "6 Horas de Imola",
