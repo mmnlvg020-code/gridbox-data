@@ -856,8 +856,8 @@
   "MOTOGP": [
     {
       "position": 1,
-      "name": "Marc Márquez",
-      "points": 274.0,
+      "name": "Jorge Martín",
+      "points": 306.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -866,8 +866,8 @@
     },
     {
       "position": 2,
-      "name": "Jorge Martín",
-      "points": 274.0,
+      "name": "Marc Márquez",
+      "points": 294.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -877,7 +877,7 @@
     {
       "position": 3,
       "name": "Marco Bezzecchi",
-      "points": 241.0,
+      "points": 264.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -886,8 +886,8 @@
     },
     {
       "position": 4,
-      "name": "Fabio Di Giannantonio",
-      "points": 223.0,
+      "name": "Pedro Acosta",
+      "points": 234.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -896,8 +896,8 @@
     },
     {
       "position": 5,
-      "name": "Pedro Acosta",
-      "points": 209.0,
+      "name": "Fabio Di Giannantonio",
+      "points": 230.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -907,7 +907,7 @@
     {
       "position": 6,
       "name": "Ai Ogura",
-      "points": 203.0,
+      "points": 222.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -917,7 +917,7 @@
     {
       "position": 7,
       "name": "Raúl Fernández",
-      "points": 199.0,
+      "points": 203.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -927,7 +927,7 @@
     {
       "position": 8,
       "name": "Álex Márquez",
-      "points": 153.0,
+      "points": 158.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -937,7 +937,7 @@
     {
       "position": 9,
       "name": "Francesco Bagnaia",
-      "points": 143.0,
+      "points": 156.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -947,7 +947,7 @@
     {
       "position": 10,
       "name": "Fermín Aldeguer",
-      "points": 105.0,
+      "points": 115.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -957,7 +957,7 @@
     {
       "position": 11,
       "name": "Luca Marini",
-      "points": 96.0,
+      "points": 98.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -967,7 +967,7 @@
     {
       "position": 12,
       "name": "Enea Bastianini",
-      "points": 92.0,
+      "points": 97.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -977,7 +977,7 @@
     {
       "position": 13,
       "name": "Brad Binder",
-      "points": 83.0,
+      "points": 94.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -987,7 +987,7 @@
     {
       "position": 14,
       "name": "Diogo Moreira",
-      "points": 64.0,
+      "points": 65.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1017,7 +1017,7 @@
     {
       "position": 17,
       "name": "Johann Zarco",
-      "points": 36.0,
+      "points": 45.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1106,6 +1106,16 @@
     },
     {
       "position": 26,
+      "name": "Takaaki Nakagami",
+      "points": 3.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 27,
       "name": "Cal Crutchlow",
       "points": 0.0,
       "wins": 0,
@@ -1115,7 +1125,7 @@
       "nationality": ""
     },
     {
-      "position": 27,
+      "position": 28,
       "name": "Jonas Folger",
       "points": 0.0,
       "wins": 0,
@@ -1125,7 +1135,7 @@
       "nationality": ""
     },
     {
-      "position": 28,
+      "position": 29,
       "name": "Lorenzo Savadori",
       "points": 0.0,
       "wins": 0,
@@ -1135,7 +1145,7 @@
       "nationality": ""
     },
     {
-      "position": 29,
+      "position": 30,
       "name": "SuperFile Trackhouse MotoGP Team",
       "points": 0.0,
       "wins": 0,
@@ -1145,7 +1155,7 @@
       "nationality": ""
     },
     {
-      "position": 30,
+      "position": 31,
       "name": "Michele Pirro",
       "points": 0.0,
       "wins": 0,
@@ -1155,7 +1165,7 @@
       "nationality": ""
     },
     {
-      "position": 31,
+      "position": 32,
       "name": "Source:",
       "points": 0.0,
       "wins": 0,
