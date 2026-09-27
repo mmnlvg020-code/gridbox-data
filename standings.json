@@ -414,16 +414,6 @@
     },
     {
       "position": 9,
-      "name": "Sheldon van der Linde",
-      "points": 65.0,
-      "wins": 0,
-      "category": "WEC",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
-      "position": 10,
       "name": "Kevin Magnussen",
       "points": 69.0,
       "wins": 0,
@@ -433,9 +423,19 @@
       "nationality": ""
     },
     {
-      "position": 11,
+      "position": 10,
       "name": "Raffaele Marciello",
       "points": 69.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 11,
+      "name": "Sheldon van der Linde",
+      "points": 65.0,
       "wins": 0,
       "category": "WEC",
       "isDriver": true,
