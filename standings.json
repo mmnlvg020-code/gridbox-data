@@ -1116,7 +1116,7 @@
     },
     {
       "position": 27,
-      "name": "Cal Crutchlow",
+      "name": "Honda HRC",
       "points": 0.0,
       "wins": 0,
       "category": "MOTOGP",
@@ -1126,7 +1126,7 @@
     },
     {
       "position": 28,
-      "name": "Jonas Folger",
+      "name": "Cal Crutchlow",
       "points": 0.0,
       "wins": 0,
       "category": "MOTOGP",
@@ -1136,7 +1136,7 @@
     },
     {
       "position": 29,
-      "name": "Lorenzo Savadori",
+      "name": "Jonas Folger",
       "points": 0.0,
       "wins": 0,
       "category": "MOTOGP",
@@ -1146,7 +1146,7 @@
     },
     {
       "position": 30,
-      "name": "SuperFile Trackhouse MotoGP Team",
+      "name": "Lorenzo Savadori",
       "points": 0.0,
       "wins": 0,
       "category": "MOTOGP",
@@ -1156,7 +1156,7 @@
     },
     {
       "position": 31,
-      "name": "Michele Pirro",
+      "name": "SuperFile Trackhouse MotoGP Team",
       "points": 0.0,
       "wins": 0,
       "category": "MOTOGP",
@@ -1166,6 +1166,16 @@
     },
     {
       "position": 32,
+      "name": "Michele Pirro",
+      "points": 0.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 33,
       "name": "Source:",
       "points": 0.0,
       "wins": 0,
