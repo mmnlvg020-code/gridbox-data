@@ -857,7 +857,7 @@
     {
       "position": 1,
       "name": "Jorge Martín",
-      "points": 333.0,
+      "points": 355.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -867,7 +867,7 @@
     {
       "position": 2,
       "name": "Marc Márquez",
-      "points": 331.0,
+      "points": 353.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -877,7 +877,7 @@
     {
       "position": 3,
       "name": "Marco Bezzecchi",
-      "points": 284.0,
+      "points": 309.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -886,8 +886,8 @@
     },
     {
       "position": 4,
-      "name": "Pedro Acosta",
-      "points": 243.0,
+      "name": "Ai Ogura",
+      "points": 259.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -896,8 +896,8 @@
     },
     {
       "position": 5,
-      "name": "Ai Ogura",
-      "points": 237.0,
+      "name": "Pedro Acosta",
+      "points": 258.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
