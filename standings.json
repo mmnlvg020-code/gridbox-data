@@ -744,7 +744,7 @@
     },
     {
       "position": 42,
-      "name": "Ross Gunn",
+      "name": "Alex Lynn",
       "points": 8.0,
       "wins": 0,
       "category": "WEC",
@@ -754,6 +754,16 @@
     },
     {
       "position": 43,
+      "name": "Ross Gunn",
+      "points": 8.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 44,
       "name": "Nick Cassidy",
       "points": 6.0,
       "wins": 0,
@@ -763,7 +773,7 @@
       "nationality": ""
     },
     {
-      "position": 44,
+      "position": 45,
       "name": "Paul di Resta",
       "points": 6.0,
       "wins": 0,
@@ -773,7 +783,7 @@
       "nationality": ""
     },
     {
-      "position": 45,
+      "position": 46,
       "name": "Stoffel Vandoorne",
       "points": 6.0,
       "wins": 0,
@@ -783,7 +793,7 @@
       "nationality": ""
     },
     {
-      "position": 46,
+      "position": 47,
       "name": "Alex Riberas",
       "points": 4.0,
       "wins": 0,
@@ -793,7 +803,7 @@
       "nationality": ""
     },
     {
-      "position": 47,
+      "position": 48,
       "name": "Marco Sørensen",
       "points": 4.0,
       "wins": 0,
@@ -803,7 +813,7 @@
       "nationality": ""
     },
     {
-      "position": 48,
+      "position": 49,
       "name": "Ricky Taylor",
       "points": 2.0,
       "wins": 0,
@@ -813,7 +823,7 @@
       "nationality": ""
     },
     {
-      "position": 49,
+      "position": 50,
       "name": "Paul-Loup Chatin",
       "points": 0.0,
       "wins": 0,
@@ -823,7 +833,7 @@
       "nationality": ""
     },
     {
-      "position": 50,
+      "position": 51,
       "name": "Mathieu Jaminet",
       "points": 0.0,
       "wins": 0,
@@ -833,7 +843,7 @@
       "nationality": ""
     },
     {
-      "position": 51,
+      "position": 52,
       "name": "Daniel Juncadella",
       "points": 0.0,
       "wins": 0,
@@ -843,7 +853,17 @@
       "nationality": ""
     },
     {
-      "position": 52,
+      "position": 53,
+      "name": "Alex Quinn",
+      "points": 0.0,
+      "wins": 0,
+      "category": "WEC",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 54,
       "name": "Roman De Angelis",
       "points": 0.0,
       "wins": 0,
