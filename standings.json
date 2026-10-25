@@ -906,8 +906,8 @@
     },
     {
       "position": 4,
-      "name": "Ai Ogura",
-      "points": 259.0,
+      "name": "Pedro Acosta",
+      "points": 263.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -916,8 +916,8 @@
     },
     {
       "position": 5,
-      "name": "Pedro Acosta",
-      "points": 263.0,
+      "name": "Ai Ogura",
+      "points": 259.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1116,6 +1116,16 @@
     },
     {
       "position": 25,
+      "name": "Prima Pramac Yamaha MotoGP",
+      "points": 6.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 26,
       "name": "Pol Espargaró",
       "points": 5.0,
       "wins": 0,
@@ -1125,7 +1135,7 @@
       "nationality": ""
     },
     {
-      "position": 26,
+      "position": 27,
       "name": "Somkiat Chantra",
       "points": 3.0,
       "wins": 0,
@@ -1135,7 +1145,7 @@
       "nationality": ""
     },
     {
-      "position": 27,
+      "position": 28,
       "name": "Takaaki Nakagami",
       "points": 3.0,
       "wins": 0,
@@ -1145,7 +1155,7 @@
       "nationality": ""
     },
     {
-      "position": 28,
+      "position": 29,
       "name": "Honda HRC",
       "points": 0.0,
       "wins": 0,
@@ -1155,7 +1165,7 @@
       "nationality": ""
     },
     {
-      "position": 29,
+      "position": 30,
       "name": "Cal Crutchlow",
       "points": 0.0,
       "wins": 0,
@@ -1165,7 +1175,7 @@
       "nationality": ""
     },
     {
-      "position": 30,
+      "position": 31,
       "name": "Jonas Folger",
       "points": 0.0,
       "wins": 0,
@@ -1175,7 +1185,7 @@
       "nationality": ""
     },
     {
-      "position": 31,
+      "position": 32,
       "name": "Lorenzo Savadori",
       "points": 0.0,
       "wins": 0,
@@ -1185,7 +1195,7 @@
       "nationality": ""
     },
     {
-      "position": 32,
+      "position": 33,
       "name": "SuperFile Trackhouse MotoGP Team",
       "points": 0.0,
       "wins": 0,
@@ -1195,7 +1205,7 @@
       "nationality": ""
     },
     {
-      "position": 33,
+      "position": 34,
       "name": "Michele Pirro",
       "points": 0.0,
       "wins": 0,
@@ -1205,7 +1215,7 @@
       "nationality": ""
     },
     {
-      "position": 34,
+      "position": 35,
       "name": "Aleix Espargaró",
       "points": 0.0,
       "wins": 0,
@@ -1215,7 +1225,7 @@
       "nationality": ""
     },
     {
-      "position": 35,
+      "position": 36,
       "name": "Source:",
       "points": 0.0,
       "wins": 0,
