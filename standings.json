@@ -876,6 +876,16 @@
   "MOTOGP": [
     {
       "position": 1,
+      "name": "Marc Márquez",
+      "points": 365.0,
+      "wins": 0,
+      "category": "MOTOGP",
+      "isDriver": true,
+      "teamName": "",
+      "nationality": ""
+    },
+    {
+      "position": 2,
       "name": "Jorge Martín",
       "points": 355.0,
       "wins": 0,
@@ -885,19 +895,9 @@
       "nationality": ""
     },
     {
-      "position": 2,
-      "name": "Marc Márquez",
-      "points": 353.0,
-      "wins": 0,
-      "category": "MOTOGP",
-      "isDriver": true,
-      "teamName": "",
-      "nationality": ""
-    },
-    {
       "position": 3,
       "name": "Marco Bezzecchi",
-      "points": 309.0,
+      "points": 315.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -917,7 +917,7 @@
     {
       "position": 5,
       "name": "Pedro Acosta",
-      "points": 258.0,
+      "points": 263.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -927,7 +927,7 @@
     {
       "position": 6,
       "name": "Fabio Di Giannantonio",
-      "points": 245.0,
+      "points": 252.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -947,7 +947,7 @@
     {
       "position": 8,
       "name": "Álex Márquez",
-      "points": 172.0,
+      "points": 181.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -997,7 +997,7 @@
     {
       "position": 13,
       "name": "Brad Binder",
-      "points": 104.0,
+      "points": 108.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1006,8 +1006,8 @@
     },
     {
       "position": 14,
-      "name": "Fabio Quartararo",
-      "points": 74.0,
+      "name": "Diogo Moreira",
+      "points": 76.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1016,7 +1016,7 @@
     },
     {
       "position": 15,
-      "name": "Diogo Moreira",
+      "name": "Fabio Quartararo",
       "points": 74.0,
       "wins": 0,
       "category": "MOTOGP",
@@ -1057,7 +1057,7 @@
     {
       "position": 19,
       "name": "Jack Miller",
-      "points": 28.0,
+      "points": 31.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -1097,7 +1097,7 @@
     {
       "position": 23,
       "name": "Iker Lecuona",
-      "points": 9.0,
+      "points": 10.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
