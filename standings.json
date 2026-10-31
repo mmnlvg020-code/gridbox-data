@@ -877,7 +877,7 @@
     {
       "position": 1,
       "name": "Marc Márquez",
-      "points": 365.0,
+      "points": 374.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -897,7 +897,7 @@
     {
       "position": 3,
       "name": "Marco Bezzecchi",
-      "points": 315.0,
+      "points": 322.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -907,7 +907,7 @@
     {
       "position": 4,
       "name": "Pedro Acosta",
-      "points": 263.0,
+      "points": 275.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -917,7 +917,7 @@
     {
       "position": 5,
       "name": "Ai Ogura",
-      "points": 259.0,
+      "points": 265.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -927,7 +927,7 @@
     {
       "position": 6,
       "name": "Fabio Di Giannantonio",
-      "points": 252.0,
+      "points": 257.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -957,7 +957,7 @@
     {
       "position": 9,
       "name": "Francesco Bagnaia",
-      "points": 166.0,
+      "points": 170.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -977,7 +977,7 @@
     {
       "position": 11,
       "name": "Enea Bastianini",
-      "points": 122.0,
+      "points": 123.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -986,8 +986,8 @@
     },
     {
       "position": 12,
-      "name": "Luca Marini",
-      "points": 108.0,
+      "name": "Brad Binder",
+      "points": 111.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
@@ -996,7 +996,7 @@
     },
     {
       "position": 13,
-      "name": "Brad Binder",
+      "name": "Luca Marini",
       "points": 108.0,
       "wins": 0,
       "category": "MOTOGP",
@@ -1007,7 +1007,7 @@
     {
       "position": 14,
       "name": "Diogo Moreira",
-      "points": 76.0,
+      "points": 78.0,
       "wins": 0,
       "category": "MOTOGP",
       "isDriver": true,
