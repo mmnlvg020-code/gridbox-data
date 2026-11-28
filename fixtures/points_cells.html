@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><title>Points Cells Test - Wikipedia</title></head>
+<body>
+<table class="wikitable sortable">
+  <!-- wikitable -->
+  <thead>
+    <tr>
+      <th scope="col">Pos</th>
+      <th scope="col">Driver</th>
+      <th scope="col">Pts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Caso A: Cero legítimo con cero -->
+    <tr>
+      <th scope="row">1</th>
+      <td>Piloto Con Cero</td>
+      <td>0</td>
+    </tr>
+    <!-- Caso B: Cero legítimo con guión -->
+    <tr>
+      <th scope="row">2</th>
+      <td>Piloto Con Guion</td>
+      <td>-</td>
+    </tr>
+    <!-- Caso C: Fila no clasificatoria con posición NC y texto DNS -->
+    <tr>
+      <th scope="row">NC</th>
+      <td>Piloto No Clasificado</td>
+      <td>DNS</td>
+    </tr>
+    <!-- Caso D: Celda con varios números (puntos y referencia de nota al pie [1]) -->
+    <tr>
+      <th scope="row">4</th>
+      <td>Piloto Con Nota Al Pie</td>
+      <td>500 [1]</td>
+    </tr>
+    <!-- Caso E: Celda con varios números (puntos y victorias en paréntesis) -->
+    <tr>
+      <th scope="row">5</th>
+      <td>Piloto Con Victorias</td>
+      <td>450 (3)</td>
+    </tr>
+    <tr>
+      <td colspan="3">- = 0 points</td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>

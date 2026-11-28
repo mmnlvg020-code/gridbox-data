@@ -1,39 +1,83 @@
-name: Sincronizar Calendario y Posiciones de Motorsport
+name: Data Sync
 
 on:
   schedule:
-    # Se ejecuta cada 6 horas (a las 00:00, 06:00, 12:00, 18:00 UTC)
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Permite ejecutar de forma manual desde la interfaz de GitHub
+    - cron: '0 8 * * *' # Corre todos los días a las 08:00 UTC (02:00 AM GMT-6)
+  workflow_dispatch:
+
+concurrency:
+  group: gridbox-data-sync
+  cancel-in-progress: false
 
 jobs:
-  build:
+  update-data:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-    - name: Descargar Repositorio
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        id: checkout
+        uses: actions/checkout@v4
 
-    - name: Configurar Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        id: setup_python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: Instalar Dependencias
-      run: |
-        python -m pip install --upgrade pip
+      - name: Run update script
+        id: update
+        run: python update_data.py
 
-    - name: Ejecutar Script de Sincronización
-      run: |
-        python update_data.py
+      - name: Run validation test suite
+        id: unit_tests
+        run: |
+          python test_validate_data.py
+          python test_extractor.py
 
-    - name: Subir Cambios a GitHub
-      run: |
-        git config --global user.name "GitHub Action Bot"
-        git config --global user.email "actions@github.com"
-        git add races.json standings.json
-        git commit -m "Auto-update schedules and standings [skip ci]" || exit 0
-        git push
+      - name: Validate data integrity (blocking gate)
+        id: validate
+        run: |
+          # Valida conjuntamente races.json y standings.json exigiendo explícitamente la temporada 2026
+          # (activa la validación temporal de calendarios y la barrera semántica NASCAR Cup 2026).
+          # Si cualquiera de los dos presenta anomalías críticas, termina con código 1 y detiene el job antes del commit.
+          python validate_data.py --season 2026
 
+      - name: Commit and push if changed
+        id: publish
+        run: |
+          set -euo pipefail
+          echo "publish_result=FAILED" >> "$GITHUB_OUTPUT"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add races.json standings.json
+          if git diff --staged --quiet; then
+            echo "publish_result=NO_CHANGES" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios en races.json ni standings.json; no se genera commit."
+          else
+            git commit -m "Auto-update races.json and standings.json [validated]"
+            git push
+            echo "commit_sha=$(git rev-parse --short HEAD)" >> "$GITHUB_OUTPUT"
+            echo "publish_result=PUBLISHED" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Notify verified outcome (Telegram)
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          JOB_STATUS: ${{ job.status }}
+          STEP_CHECKOUT: ${{ steps.checkout.outcome }}
+          STEP_SETUP: ${{ steps.setup_python.outcome }}
+          STEP_UPDATE: ${{ steps.update.outcome }}
+          STEP_TESTS: ${{ steps.unit_tests.outcome }}
+          STEP_VALIDATE: ${{ steps.validate.outcome }}
+          STEP_PUBLISH: ${{ steps.publish.outcome }}
+          PUBLISH_RESULT: ${{ steps.publish.outputs.publish_result }}
+          COMMIT_SHA: ${{ steps.publish.outputs.commit_sha }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          # Nota de límites: if: always() evalúa estados comprobados de los pasos previos, pero no garantiza
+          # notificación si el runner sufre una terminación abrupta a nivel de infraestructura.
+          python update_data.py --notify-from-ci
